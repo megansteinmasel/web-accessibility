@@ -13,7 +13,7 @@
   * [[Press here](https://mbelmear.github.io/CSCI-331/Final%20Project/)] 
   
 * **Link to Presentation:**
-  * [[Press here](https://github.com/megansteinmasel/web-accessibility/blob/main/Web%20Accessibility.pptx)] 
+  * [[Press here](https://docs.google.com/presentation/d/14D2j1q7L0T7WU2Pgl7byY1G44EubFcrGJKhKl4oXbq4/edit?usp=sharing)] 
 
 <h2> Creative Objective </h2>
 
